@@ -8,6 +8,7 @@ syntax on
 syntax enable
 set ts=4
 set noerrorbells
+set backspace=indent,eol,start
 
 set sw=4
 

@@ -1,1 +1,1 @@
-cat gitconfig >  /root/.gitconfig
+cat gitconfig >  ~/.gitconfig

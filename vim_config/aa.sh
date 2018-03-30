@@ -13,7 +13,6 @@ for i in {01..11};do
 	echo $i
 	sleep 1
 	echo "---------------"
-
 done
 
 

@@ -23,6 +23,7 @@ set nobackup
 :runtime macros/matchit.vim
 au  BufNewFile,BufRead  *.t2t   set ft=txt2tags
 "set foldcolumn=4
+
 set mouse-=a
 nmap # I#<Esc>j
 map  <CTRL-n> :tabnew<CR>

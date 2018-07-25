@@ -13,4 +13,5 @@ for i in {01..11};do
 	sleep 1
 	echo "---------------"
 done
+echo "the end!"
 
